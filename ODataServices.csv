@@ -1,0 +1,10 @@
+Name, uri
+NetFlix,    "http://odata.netflix.com/Catalog"
+Northwind,  "http://services.odata.org/Northwind/Northwind.svc/"
+TechEd2010, "http://odata.msteched.com/sessions.svc/"
+WorldCup,   "http://www.openligadb.de/Webservices/OData.svc/"
+StackOverflow, "http://odata.stackexchange.com/stackoverflow/atom"
+SuperUser, "http://odata.stackexchange.com/superuser/atom"
+ServerFault, "http://odata.stackexchange.com/serverfault/atom"
+"Meta StackOverflow", "http://odata.stackexchange.com/meta/atom"
+Locations, "http://ogdi.cloudapp.net/v1/dc"
